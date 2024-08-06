@@ -1,0 +1,8 @@
+Flask
+pyswisseph
+geopy
+pytz
+gunicorn
+timezonefinder
+NumPy
+Matplotlib
